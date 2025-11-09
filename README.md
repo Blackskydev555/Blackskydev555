@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD Hasan Patwary</h1>
+<h1 align="center">Hi 👋, I'm Hasan Patwary</h1>
 <h3 align="center">💻 A Passionate Front-End Web Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **[6amMart](https://6ammart.app/)** at [6amTech](https://6amtech.com)
 - 🌱 I’m learning **TypeScript** and exploring advanced **Next.js**
 - 💬 Ask me about **HTML5, CSS3, JavaScript, jQuery, React.js, Vue.js, Tailwind, Next.js**
-- 📫 Email me at **patwary.web@gmail.com**
+- 📫 Email me at **kstep854@gmail.com**
 - ⚡ Fun fact: *I think I'm funny. My code sometimes disagrees.*
 
 ---
