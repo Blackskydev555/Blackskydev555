@@ -6,7 +6,7 @@
 
 ## 👋 About
 
-Senior **Full-Stack & AI & Blockchain Developer**  who help startups and entrepreneurs build **stable and operationally ready systems**
+Senior **Full-Stack & AI  Developer**  who help startups and entrepreneurs build **stable and operationally ready systems**
 
 I'm responsible for the entire process, from architectural design to implementation and deployment, with a focus on clarity, maintainability, and creating business value.
 
